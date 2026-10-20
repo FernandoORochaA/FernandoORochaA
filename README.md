@@ -38,7 +38,7 @@ Minha participação incluiu implementação de funcionalidades, modelagem do ba
 
 - https://github.com/RobertoEhlertOSF/BolaoDaCopa2026
 
-🎮 Tamo Junto Games
+### 🎮 Tamo Junto Games
 
 Projeto pessoal de estudos e desenvolvimento de software, com foco na construção de uma plataforma para jogadores.
 
