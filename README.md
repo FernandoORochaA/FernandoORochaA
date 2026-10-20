@@ -38,16 +38,23 @@ Minha participação incluiu implementação de funcionalidades, modelagem do ba
 
 - https://github.com/RobertoEhlertOSF/BolaoDaCopa2026
 
-### 🎮 Tamo Junto Games
+🎮 Tamo Junto Games
 
-Projeto de estudos de longo prazo voltado ao desenvolvimento de uma API REST utilizando ASP.NET Core.
+Projeto pessoal de estudos e desenvolvimento de software, com foco na construção de uma plataforma para jogadores.
 
-O objetivo do projeto é aplicar boas práticas modernas de desenvolvimento, arquitetura em camadas, autenticação, Entity Framework Core, migrations, documentação via Swagger e versionamento utilizando Git.
+Concluí o ciclo técnico inicial da API REST de usuários e autenticação, desenvolvida com C#, ASP.NET Core, Entity Framework Core e SQLite.
 
-**Repositórios**
+Entre as funcionalidades implementadas estão autenticação JWT, proteção de senhas com BCrypt, autorização por usuário, validação de dados, tratamento padronizado de erros, rate limiting e persistência com migrations.
 
-- Backend: https://github.com/FernandoORochaA/tamo-junto-games-api
-- Frontend: https://github.com/FernandoORochaA/tamo-junto-games-web
+O projeto conta com 166 testes automatizados aprovados, documentação técnica e um plano estruturado para evolução futura.
+
+Atualmente, a API está com seu ciclo técnico inicial concluído, aguardando a próxima fase de desenvolvimento.
+
+Repositórios
+
+Backend: https://github.com/FernandoORochaA/tamo-junto-games-api
+
+Frontend: https://github.com/FernandoORochaA/tamo-junto-games-web
 
 ---
 
